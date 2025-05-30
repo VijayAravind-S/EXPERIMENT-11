@@ -1,4 +1,4 @@
-![unnamed](https://github.com/user-attachments/assets/c29c9c69-98af-4076-9058-931bc7c3063f)# EXPERIMENT-11 Prompt-Engineering  
+# EXPERIMENT-11 Prompt-Engineering  
 # AIM : 
 To create a promotional Instagram post for a new energy drink named **RiseUp**. Include a catchy headline, 2 emojis, and relevant hashtags.  
 
@@ -14,7 +14,7 @@ To create a promotional Instagram post for a new energy drink named **RiseUp**. 
 👑 Unleash Your Inner King with Kingston Protein! 💪
 
 
-![prompt exp-11](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQvIAn5f38SiyISaw7iMDOBGqyfW49vZFSm3P5vezOwGZUMH3-MPrCJOXV1yW9XRheFgeQcSfbxZTBWYrAFXiSdWkrPrEswsVs2wE9kIJYkouYBxNrTqOVaIYVcriNFv_cWwexNSfkig0xPXEPYvi7enVwQxRJcmK15Lp6KkKg5ZCv0VA=s1024)
+![prompt exp-11](https://github.com/user-attachments/assets/c29c9c69-98af-4076-9058-931bc7c3063f)
 
 Fuel your workouts and conquer your goals with the power of Kingston Protein Powder. Pure strength, pure energy, pure YOU.
 # Result:  
